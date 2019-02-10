@@ -5,4 +5,4 @@ to the bill cost, and a total will be displayed.
 
 ## App Capability through GIF
 (see GIF)
-<img src = "http://g.recordit.co/rPD32fe0ts.gif" width=250 ><br>
+<img src = "http://g.recordit.co/zoQj4q8a7Q.gif" width=250 ><br>
